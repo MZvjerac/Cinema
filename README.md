@@ -5,3 +5,4 @@ NOTE: Not all files were uploaded because of GitHub limitation. If you need all 
 ### SK 1: Registration
 Prerequisites: Sistem is active, user is conected and choose Registrtion option with registration form.
 ![regFrm](https://user-images.githubusercontent.com/68098543/93665643-55292200-fa78-11ea-8e86-8a3b1375cc33.JPG)
+Basic scenario: The user enters data and confirms the entry by pressing the "CONFIRM" button.
